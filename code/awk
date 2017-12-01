@@ -1,0 +1,1 @@
+#CPI,sku,image name,image label,position BEGIN{FS=",";OFS="";}{sub(/^.*\//, "", $1); sub(/\.jpg/, "", $1); sub(/_.*/, "", $1); print "CPI" FS $1  FS $2 FS $3 FS,($2~/.*d/)?"1":"2"} cpi.csv

@@ -1,0 +1,1 @@
+[31m✘ To automate JPEGmini we need to add Terminal.app (or iTerm.app etc) to the 'support for assistive devices' whitelist. Please see README for more details.[0m
