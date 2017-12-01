@@ -1,0 +1,23 @@
+lcd '/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/upload-script-3/sandbox/example'
+put 234567.jpg
+put 589831_d.jpg
+put 589831_g1h.jpg
+put 589831_g2.jpg
+put 589831_g3.jpg
+put 721031_d.jpg
+put 721031_g1h.jpg
+put 721031_g2.jpg
+put 721031_g3.jpg
+put 721069_d.jpg
+put 721069_g1h.jpg
+put 721069_g2.jpg
+put 721069_g3.jpg
+put 738671_d.jpg
+put 738671_g1h.jpg
+put 738671_g2.jpg
+put 738671_g3.jpg
+put 738684_d.jpg
+put 738684_g1h.jpg
+put 738684_g2.jpg
+put 738684_g3.jpg
+quit

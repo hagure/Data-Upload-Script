@@ -1,0 +1,33 @@
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/og/ -> /Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-001info-catalog.jpg not overwritten
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-001inv-catalog.jpg not overwritten
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-001rsvp-catalog.jpg not overwritten
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/og//ann001-001save-catalog.jpg -> /Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-001save-catalog.jpg
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/og//ann001-001ty-catalog.jpg -> /Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-001ty-catalog.jpg
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/og//ann001-002info-catalog.jpg -> /Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-002info-catalog.jpg
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/og//ann001-002inv-catalog.jpg -> /Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-002inv-catalog.jpg
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/og//ann001-002rsvp-catalog.jpg -> /Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-002rsvp-catalog.jpg
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-002save-catalog.jpg not overwritten
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-002ty-catalog.jpg not overwritten
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-002wedp-catalog.jpg not overwritten
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-003info-catalog.jpg not overwritten
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-003inv-catalog.jpg not overwritten
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-003rsvp-catalog.jpg not overwritten
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-003save-catalog.jpg not overwritten
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-003ty-catalog.jpg not overwritten
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-003weds-catalog.jpg not overwritten
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-004info-catalog.jpg not overwritten
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-004inv-catalog.jpg not overwritten
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-004rsvp-catalog.jpg not overwritten
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-004save-catalog.jpg not overwritten
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-004ty-catalog.jpg not overwritten
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-005info-catalog.jpg not overwritten
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-005inv-catalog.jpg not overwritten
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-005rsvp-catalog.jpg not overwritten
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-005save-catalog.jpg not overwritten
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-005ty-catalog.jpg not overwritten
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-006info-catalog.jpg not overwritten
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-006inv-catalog.jpg not overwritten
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-006rsvp-catalog.jpg not overwritten
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-006save-catalog.jpg not overwritten
+/Volumes/Kool-Aid Man/WorkBox/Work-Inbox/Upload Script 3/copier/ann001-006ty-catalog.jpg not overwritten
